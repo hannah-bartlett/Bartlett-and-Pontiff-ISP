@@ -1,0 +1,11 @@
+{
+  "object" : {
+    "repositories" : {
+      "https://github.com/TheCoderMerlin/Curses.git" : {
+        "repositoryURL" : "https://github.com/TheCoderMerlin/Curses.git",
+        "subpath" : "Curses-08341b64"
+      }
+    }
+  },
+  "version" : 1
+}

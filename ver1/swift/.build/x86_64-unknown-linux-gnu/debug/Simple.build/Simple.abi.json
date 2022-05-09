@@ -1,0 +1,652 @@
+{
+  "kind": "Root",
+  "name": "TopLevel",
+  "printedName": "TopLevel",
+  "children": [
+    {
+      "kind": "Import",
+      "name": "Foundation",
+      "printedName": "Foundation",
+      "declKind": "Import",
+      "moduleName": "Simple"
+    },
+    {
+      "kind": "Function",
+      "name": "clearScreen",
+      "printedName": "clearScreen()",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Void",
+          "printedName": "()"
+        }
+      ],
+      "declKind": "Func",
+      "usr": "s:6Simple11clearScreenyyF",
+      "mangledName": "$s6Simple11clearScreenyyF",
+      "moduleName": "Simple",
+      "declAttributes": [
+        "RawDocComment"
+      ],
+      "funcSelfKind": "NonMutating"
+    },
+    {
+      "kind": "Var",
+      "name": "timeLimit",
+      "printedName": "timeLimit",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Int",
+          "printedName": "Swift.Int",
+          "usr": "s:Si"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:6Simple9timeLimitSivp",
+      "mangledName": "$s6Simple9timeLimitSivp",
+      "moduleName": "Simple",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage"
+      ],
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "moneycap",
+      "printedName": "moneycap",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Int",
+          "printedName": "Swift.Int",
+          "usr": "s:Si"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:6Simple8moneycapSivp",
+      "mangledName": "$s6Simple8moneycapSivp",
+      "moduleName": "Simple",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage"
+      ],
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "stock1",
+      "printedName": "stock1",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Int",
+          "printedName": "Swift.Int",
+          "usr": "s:Si"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:6Simple6stock1Sivp",
+      "mangledName": "$s6Simple6stock1Sivp",
+      "moduleName": "Simple",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage",
+        "RawDocComment"
+      ],
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "stock2",
+      "printedName": "stock2",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Int",
+          "printedName": "Swift.Int",
+          "usr": "s:Si"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:6Simple6stock2Sivp",
+      "mangledName": "$s6Simple6stock2Sivp",
+      "moduleName": "Simple",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage",
+        "RawDocComment"
+      ],
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "stock3",
+      "printedName": "stock3",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Int",
+          "printedName": "Swift.Int",
+          "usr": "s:Si"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:6Simple6stock3Sivp",
+      "mangledName": "$s6Simple6stock3Sivp",
+      "moduleName": "Simple",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage",
+        "RawDocComment"
+      ],
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "playerStock1",
+      "printedName": "playerStock1",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Int",
+          "printedName": "Swift.Int",
+          "usr": "s:Si"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:6Simple12playerStock1Sivp",
+      "mangledName": "$s6Simple12playerStock1Sivp",
+      "moduleName": "Simple",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage",
+        "RawDocComment"
+      ],
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "playerStock2",
+      "printedName": "playerStock2",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Int",
+          "printedName": "Swift.Int",
+          "usr": "s:Si"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:6Simple12playerStock2Sivp",
+      "mangledName": "$s6Simple12playerStock2Sivp",
+      "moduleName": "Simple",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage",
+        "RawDocComment"
+      ],
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "playerStock3",
+      "printedName": "playerStock3",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Int",
+          "printedName": "Swift.Int",
+          "usr": "s:Si"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:6Simple12playerStock3Sivp",
+      "mangledName": "$s6Simple12playerStock3Sivp",
+      "moduleName": "Simple",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage",
+        "RawDocComment"
+      ],
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "money",
+      "printedName": "money",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Int",
+          "printedName": "Swift.Int",
+          "usr": "s:Si"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:6Simple5moneySivp",
+      "mangledName": "$s6Simple5moneySivp",
+      "moduleName": "Simple",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage",
+        "RawDocComment"
+      ],
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "playerStocks",
+      "printedName": "playerStocks",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Int",
+          "printedName": "Swift.Int",
+          "usr": "s:Si"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:6Simple12playerStocksSivp",
+      "mangledName": "$s6Simple12playerStocksSivp",
+      "moduleName": "Simple",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage",
+        "RawDocComment"
+      ],
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "debug",
+      "printedName": "debug",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Int",
+          "printedName": "Swift.Int",
+          "usr": "s:Si"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:6Simple5debugSivp",
+      "mangledName": "$s6Simple5debugSivp",
+      "moduleName": "Simple",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage",
+        "RawDocComment"
+      ],
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "debugMode",
+      "printedName": "debugMode",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Bool",
+          "printedName": "Swift.Bool",
+          "usr": "s:Sb"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:6Simple9debugModeSbvp",
+      "mangledName": "$s6Simple9debugModeSbvp",
+      "moduleName": "Simple",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage",
+        "RawDocComment"
+      ],
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "trueName",
+      "printedName": "trueName",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "String",
+          "printedName": "Swift.String",
+          "usr": "s:SS"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:6Simple8trueNameSSvp",
+      "mangledName": "$s6Simple8trueNameSSvp",
+      "moduleName": "Simple",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage",
+        "RawDocComment"
+      ],
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "hasPet",
+      "printedName": "hasPet",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Bool",
+          "printedName": "Swift.Bool",
+          "usr": "s:Sb"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:6Simple6hasPetSbvp",
+      "mangledName": "$s6Simple6hasPetSbvp",
+      "moduleName": "Simple",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage",
+        "RawDocComment"
+      ],
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "truePetName",
+      "printedName": "truePetName",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "String",
+          "printedName": "Swift.String",
+          "usr": "s:SS"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:6Simple11truePetNameSSvp",
+      "mangledName": "$s6Simple11truePetNameSSvp",
+      "moduleName": "Simple",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage",
+        "RawDocComment"
+      ],
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "isCrash",
+      "printedName": "isCrash",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Bool",
+          "printedName": "Swift.Bool",
+          "usr": "s:Sb"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:6Simple7isCrashSbvp",
+      "mangledName": "$s6Simple7isCrashSbvp",
+      "moduleName": "Simple",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage",
+        "RawDocComment"
+      ],
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "gameComplete",
+      "printedName": "gameComplete",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Bool",
+          "printedName": "Swift.Bool",
+          "usr": "s:Sb"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:6Simple12gameCompleteSbvp",
+      "mangledName": "$s6Simple12gameCompleteSbvp",
+      "moduleName": "Simple",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage",
+        "RawDocComment"
+      ],
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "petDecision",
+      "printedName": "petDecision",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Optional",
+          "printedName": "Swift.String?",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "usr": "s:Sq"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:6Simple11petDecisionSSSgvp",
+      "mangledName": "$s6Simple11petDecisionSSSgvp",
+      "moduleName": "Simple",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage",
+        "RawDocComment"
+      ],
+      "isLet": true,
+      "hasStorage": true
+    },
+    {
+      "kind": "Function",
+      "name": "info",
+      "printedName": "info()",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Void",
+          "printedName": "()"
+        }
+      ],
+      "declKind": "Func",
+      "usr": "s:6Simple4infoyyF",
+      "mangledName": "$s6Simple4infoyyF",
+      "moduleName": "Simple",
+      "funcSelfKind": "NonMutating"
+    },
+    {
+      "kind": "Function",
+      "name": "win",
+      "printedName": "win()",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Void",
+          "printedName": "()"
+        }
+      ],
+      "declKind": "Func",
+      "usr": "s:6Simple3winyyF",
+      "mangledName": "$s6Simple3winyyF",
+      "moduleName": "Simple",
+      "funcSelfKind": "NonMutating"
+    },
+    {
+      "kind": "Function",
+      "name": "newsHeadline",
+      "printedName": "newsHeadline()",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Void",
+          "printedName": "()"
+        }
+      ],
+      "declKind": "Func",
+      "usr": "s:6Simple12newsHeadlineyyF",
+      "mangledName": "$s6Simple12newsHeadlineyyF",
+      "moduleName": "Simple",
+      "declAttributes": [
+        "RawDocComment"
+      ],
+      "funcSelfKind": "NonMutating"
+    },
+    {
+      "kind": "Function",
+      "name": "crash",
+      "printedName": "crash()",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Void",
+          "printedName": "()"
+        }
+      ],
+      "declKind": "Func",
+      "usr": "s:6Simple5crashyyF",
+      "mangledName": "$s6Simple5crashyyF",
+      "moduleName": "Simple",
+      "funcSelfKind": "NonMutating"
+    },
+    {
+      "kind": "Function",
+      "name": "sellStocks",
+      "printedName": "sellStocks()",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Void",
+          "printedName": "()"
+        }
+      ],
+      "declKind": "Func",
+      "usr": "s:6Simple10sellStocksyyF",
+      "mangledName": "$s6Simple10sellStocksyyF",
+      "moduleName": "Simple",
+      "funcSelfKind": "NonMutating"
+    },
+    {
+      "kind": "Function",
+      "name": "Robbie",
+      "printedName": "Robbie()",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Void",
+          "printedName": "()"
+        }
+      ],
+      "declKind": "Func",
+      "usr": "s:6Simple6RobbieyyF",
+      "mangledName": "$s6Simple6RobbieyyF",
+      "moduleName": "Simple",
+      "funcSelfKind": "NonMutating"
+    },
+    {
+      "kind": "Function",
+      "name": "buyStocks",
+      "printedName": "buyStocks()",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Void",
+          "printedName": "()"
+        }
+      ],
+      "declKind": "Func",
+      "usr": "s:6Simple9buyStocksyyF",
+      "mangledName": "$s6Simple9buyStocksyyF",
+      "moduleName": "Simple",
+      "funcSelfKind": "NonMutating"
+    },
+    {
+      "kind": "Function",
+      "name": "refreshStocks",
+      "printedName": "refreshStocks(stock:)",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Void",
+          "printedName": "()"
+        },
+        {
+          "kind": "TypeNominal",
+          "name": "Int",
+          "printedName": "Swift.Int",
+          "usr": "s:Si"
+        }
+      ],
+      "declKind": "Func",
+      "usr": "s:6Simple13refreshStocks5stockySi_tF",
+      "mangledName": "$s6Simple13refreshStocks5stockySi_tF",
+      "moduleName": "Simple",
+      "funcSelfKind": "NonMutating"
+    },
+    {
+      "kind": "Function",
+      "name": "crashFix",
+      "printedName": "crashFix()",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Void",
+          "printedName": "()"
+        }
+      ],
+      "declKind": "Func",
+      "usr": "s:6Simple8crashFixyyF",
+      "mangledName": "$s6Simple8crashFixyyF",
+      "moduleName": "Simple",
+      "funcSelfKind": "NonMutating"
+    },
+    {
+      "kind": "Function",
+      "name": "lossCheck",
+      "printedName": "lossCheck()",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Void",
+          "printedName": "()"
+        }
+      ],
+      "declKind": "Func",
+      "usr": "s:6Simple9lossCheckyyF",
+      "mangledName": "$s6Simple9lossCheckyyF",
+      "moduleName": "Simple",
+      "funcSelfKind": "NonMutating"
+    },
+    {
+      "kind": "Function",
+      "name": "start",
+      "printedName": "start()",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Void",
+          "printedName": "()"
+        }
+      ],
+      "declKind": "Func",
+      "usr": "s:6Simple5startyyF",
+      "mangledName": "$s6Simple5startyyF",
+      "moduleName": "Simple",
+      "funcSelfKind": "NonMutating"
+    }
+  ],
+  "json_format_version": 6
+}

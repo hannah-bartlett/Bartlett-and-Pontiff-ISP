@@ -1,0 +1,23 @@
+{
+  "": {
+    "swift-dependencies": "/home/loren-pontiff/stocks/ver1/swift/.build/x86_64-unknown-linux-gnu/debug/Simple.build/master.swiftdeps"
+  },
+  "/home/loren-pontiff/stocks/ver1/swift/badgame.swift": {
+    "dependencies": "/home/loren-pontiff/stocks/ver1/swift/.build/x86_64-unknown-linux-gnu/debug/Simple.build/badgame.d",
+    "object": "/home/loren-pontiff/stocks/ver1/swift/.build/x86_64-unknown-linux-gnu/debug/Simple.build/badgame.swift.o",
+    "swiftmodule": "/home/loren-pontiff/stocks/ver1/swift/.build/x86_64-unknown-linux-gnu/debug/Simple.build/badgame~partial.swiftmodule",
+    "swift-dependencies": "/home/loren-pontiff/stocks/ver1/swift/.build/x86_64-unknown-linux-gnu/debug/Simple.build/badgame.swiftdeps"
+  },
+  "/home/loren-pontiff/stocks/ver1/swift/function.swift": {
+    "dependencies": "/home/loren-pontiff/stocks/ver1/swift/.build/x86_64-unknown-linux-gnu/debug/Simple.build/function.d",
+    "object": "/home/loren-pontiff/stocks/ver1/swift/.build/x86_64-unknown-linux-gnu/debug/Simple.build/function.swift.o",
+    "swiftmodule": "/home/loren-pontiff/stocks/ver1/swift/.build/x86_64-unknown-linux-gnu/debug/Simple.build/function~partial.swiftmodule",
+    "swift-dependencies": "/home/loren-pontiff/stocks/ver1/swift/.build/x86_64-unknown-linux-gnu/debug/Simple.build/function.swiftdeps"
+  },
+  "/home/loren-pontiff/stocks/ver1/swift/main.swift": {
+    "dependencies": "/home/loren-pontiff/stocks/ver1/swift/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main.d",
+    "object": "/home/loren-pontiff/stocks/ver1/swift/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main.swift.o",
+    "swiftmodule": "/home/loren-pontiff/stocks/ver1/swift/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main~partial.swiftmodule",
+    "swift-dependencies": "/home/loren-pontiff/stocks/ver1/swift/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main.swiftdeps"
+  }
+}

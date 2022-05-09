@@ -1,0 +1,27 @@
+{
+  "object" : {
+    "artifacts" : [
+
+    ],
+    "dependencies" : [
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "curses",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/TheCoderMerlin/Curses.git",
+          "name" : "Curses"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "1290eb90a3fbb9ae9478ce44aaccf2c50ed20926",
+            "version" : "1.0.5"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "Curses"
+      }
+    ]
+  },
+  "version" : 5
+}
