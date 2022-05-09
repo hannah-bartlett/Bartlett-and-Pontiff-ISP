@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/home/loren-pontiff/stocks/Bartlett-and-Pontiff-ISP/ver1.1/.build/x86_64-unknown-linux-gnu/debug/Simple.build/master.swiftdeps"
+  },
+  "/home/loren-pontiff/stocks/Bartlett-and-Pontiff-ISP/ver1.1/main.swift": {
+    "dependencies": "/home/loren-pontiff/stocks/Bartlett-and-Pontiff-ISP/ver1.1/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main.d",
+    "object": "/home/loren-pontiff/stocks/Bartlett-and-Pontiff-ISP/ver1.1/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main.swift.o",
+    "swiftmodule": "/home/loren-pontiff/stocks/Bartlett-and-Pontiff-ISP/ver1.1/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main~partial.swiftmodule",
+    "swift-dependencies": "/home/loren-pontiff/stocks/Bartlett-and-Pontiff-ISP/ver1.1/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main.swiftdeps"
+  }
+}
