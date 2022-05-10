@@ -72,18 +72,18 @@ func info() { // The startup text
         print("Welcome to STOCKS: Economy Simulator, \(trueName).") //Welcome message
         sleep(3) //Sleep
         if hasPet == true { //Check for if the player has a pet
-            print(" ") //Prints empty line
-            print(" \(truePetName) needs surgery!") //Print game story
+            print("") //Prints empty line
+            print("\(truePetName) needs surgery!") //Print game story
             sleep(2) //Sleep
-            print(" Gain 1000 dollars or they DIE.") //Prints game story
+            print("Gain 1000 dollars or they DIE.") //Prints game story
         } else { // if the player doesn't have a pet
-            print(" ") //Prints empty line
-            print(" YOU need surgery.") //Print game story
+            print("") //Prints empty line
+            print("YOU need surgery.") //Print game story
             sleep(2) //sleep
-            print(" Gain 1000 dollars or you DIE.") //print game story
+            print("Gain 1000 dollars or you DIE.") //print game story
         }
         sleep(2) //sleep
-        print(" \nGood luck.") //sleep
+        print("\nGood luck.") //sleep
         sleep(3) //sleep
     }
 }
