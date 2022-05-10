@@ -153,9 +153,9 @@ info() //Runs the game start text
     func sellStocks() { //The function that is run to sell stocks
         clearScreen() //Clears screen
         print(" You have \(money) dollars.") //Player money display
-        print(" Stock 1 is currently priced at \(stock1). Owned: \(playerStock1). Type '1' to purchase.") //Gives information on stock 1
-        print(" Stock 2 is currently priced at \(stock2). Owned: \(playerStock2). Type '2' to purchase.") //Gives information on stock 2
-        print(" Stock 3 is currently priced at \(stock3). Owned: \(playerStock3). Type '3' to purchase.") //Gives information on stock 3
+        print(" Stock 1 is currently priced at \(stock1). Owned: \(playerStock1). Type '1' to sell.") //Gives information on stock 1
+        print(" Stock 2 is currently priced at \(stock2). Owned: \(playerStock2). Type '2' to sell.") //Gives information on stock 2
+        print(" Stock 3 is currently priced at \(stock3). Owned: \(playerStock3). Type '3' to sell.") //Gives information on stock 3
         print(" Choose  a stock, or type cancel.") //Gives input options
         let sellStock = readLine() //Reads player input
         if sellStock  == "1" { //If selling stock 1
